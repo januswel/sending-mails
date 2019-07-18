@@ -1,0 +1,11 @@
+node_modules
+yarn-error.log
+dist
+credentials.json
+token.json
+sent-list
+error-log
+results
+list.csv*
+!list.csv.sample
+mail-template.yml

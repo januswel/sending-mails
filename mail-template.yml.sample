@@ -1,0 +1,14 @@
+---
+subject: サンプルメール
+from:
+  displayName: だれか
+  mailAddress: someone@example.com
+replyTo:
+  - displayName: どこか
+    mailAddress: somewhere@example.com
+body: |
+  ${familyName} ${personalName} さま
+
+  ほげほげほげ
+
+  ${mailAddress} にお手紙送ってみました
