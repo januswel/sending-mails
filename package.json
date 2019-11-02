@@ -22,7 +22,7 @@
     "typescript": "3.5.1"
   },
   "dependencies": {
-    "csv-parse": "4.4.3",
+    "csv-parse": "4.4.6",
     "googleapis": "39",
     "js-yaml": "3.13.1"
   }
